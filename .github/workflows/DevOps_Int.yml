@@ -11,4 +11,4 @@ jobs:
         steps:
             - run: echo "Hello everyone"
             - uses: actions/checkout@v4
-            - run: 1s
+            - run: 1s -a
